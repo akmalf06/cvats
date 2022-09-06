@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.section-headline {
+  @apply font-bold sm:text-xl uppercase tracking-widest border-[#2155CD] border-l-8 pl-2;
+}
+
+.section-headline {
+  color: #2155CD !important;
+}
